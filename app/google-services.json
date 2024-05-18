@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565736335263",
+    "firebase_url": "https://dreamwingsiv-default-rtdb.firebaseio.com",
+    "project_id": "dreamwingsiv",
+    "storage_bucket": "dreamwingsiv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565736335263:android:0dff7b78b3d0f74ebbffaa",
+        "android_client_info": {
+          "package_name": "com.example.dreamwingsiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAja7kHtBVZnD8a1ZmfBS98eGuLXx57ZvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

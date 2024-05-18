@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">DreamWingsIV</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="enter_destination">Enter Destination</string>
+    <string name="view_flights">View Flights</string>
+    <string name="current_destination">Current Destination</string>
+    <string name="home">Home</string>
+    <string name="book">Book</string>
+    <string name="money">Pay</string>
+    <string name="call">Contact</string>
+    <string name="paris">Paris</string>
+    <string name="SouthK">SouthKorea</string>
+    <string name="canada">Canada</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="Austalia">Australia</string>
+    <string name="dubai">Dubai</string>
+
+    <string-array name="Places">
+        <item>United States(New York City)</item>
+        <item>United States(Los Angeles)</item>
+        <item>United States(Chicago)</item>
+        <item>United States(Houston)</item>
+        <item>United States(San Francisco)</item>
+        <item>United Kingdom(London)</item>
+        <item>United Kingdom(Manchester)</item>
+        <item>United Kingdom(Birmingham)</item>
+        <item>United Kingdom(Edinburgh)</item>
+        <item>United Kingdom(Glasgow)</item>
+        <item>Canada(Toronto)</item>
+        <item>Canada(Montreal)</item>
+        <item>Canada(Calgary)</item>
+        <item>Canada(Ottawa)</item>
+        <item>,Australia(Sydney)</item>
+        <item>Australia(Melbourne)</item>
+        <item>Australia(Brisbane)</item>
+        <item>Australia(Perth)</item>
+        <item>Australia(Adelaide)</item>
+        <item>Germany(Munich)</item>
+        <item>Germany(Hamburg)</item>
+        <item>Germany(Frankfurt)</item>
+        <item>Germany(Cologne)</item>
+        <item>France(Paris)</item>
+        <item>France(Marseille)</item>
+        <item>France(Lyon)</item>
+        <item>France(Toulouse)</item>
+        <item>France(Nice)</item>
+        <item>China(Beijing)</item>
+        <item>China(Shanghai)</item>
+        <item>China(Guangzhou)</item>
+        <item>China(Shenzhen)</item>
+        <item>China(Chengdu),</item>
+        <item>Japan(Tokyo)</item>
+        <item>Japan(Yokohama)</item>
+        <item>Japan(Osaka)</item>
+        <item>Japan(Nagoya)</item>
+        <item>Japan(Sapporo)</item>
+        <item>Brazil(São Paulo)</item>
+        <item>Brazil(Rio de Janeiro)</item>
+        <item>Brazil(Brasília)</item>
+        <item>Brazil(Salvador)</item>
+        <item>Brazil(Fortaleza)</item>
+        <item>India(Delhi),</item>
+        <item>India(Mumbai)</item>
+        <item>India(Bangalore)</item>
+        <item>India(Chennai)</item>
+        <item>India(Kolkata)</item>
+
+    </string-array>
+    <string-array name="Peopleclass">
+        <item>Economy Class</item>
+        <item>Premium Economy Class</item>
+        <item>Business Class</item>
+        <item>First Class</item>
+    </string-array>
+    <string-array name="people">
+        <item>Adult Passengers(above 18)</item>
+        <item>Child Passengers(between 2-12)</item>
+        <item>Infants(under 2yrs)</item>
+        <item>Senior Passengers(above65ys)</item>
+        <item>Passengers with Disabilities</item>
+        <item>Unaccompanied Minors</item>
+        <item>,Passengers with Special Needs</item>
+        <item>Business Travelers</item>
+        <item>Leisure Travelers</item>
+        <item>Group Travelers</item>
+
+    </string-array>
+    <string-array name="price_options">
+        <item>$10.00</item>
+        <item>$20.00</item>
+        <item>$30.00</item>
+
+    </string-array>
+
+</resources>
